@@ -1,0 +1,2 @@
+never hardcode passwords
+sanitize inputs 
